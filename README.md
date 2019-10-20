@@ -1,7 +1,8 @@
-# HashMap implementation in C++
-HashMap data structure built in my ICS45c course at UC Irvine.
+# Data structure implementations in C++
 
-The goal of this project was to construct the base functionality of a hash map using characteristics of C++.
+A collection of Data Structures built in my data structures and C++ course at UC Irvine.
+
+The goal of these projects was to construct the base functionality of each data structure using characteristics of C++.
 
 - Overloaded Constructors and Destructor
 - Operator overloading
